@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/balrajramamoorthi/kanban-board.git/static/css/main.c0d89342.css",
+    "main.js": "/balrajramamoorthi/kanban-board.git/static/js/main.86a2f663.js",
+    "index.html": "/balrajramamoorthi/kanban-board.git/index.html",
+    "main.c0d89342.css.map": "/balrajramamoorthi/kanban-board.git/static/css/main.c0d89342.css.map",
+    "main.86a2f663.js.map": "/balrajramamoorthi/kanban-board.git/static/js/main.86a2f663.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d89342.css",
+    "static/js/main.86a2f663.js"
+  ]
+}

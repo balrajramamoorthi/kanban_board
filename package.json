@@ -1,0 +1,42 @@
+{
+  "name": "kanban-board",
+  "version": "1.0.0",
+  "description": "kanban-board",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "axios": "^0.27.2",
+    "bootstrap-modal": "^2.2.4",
+    "gh-pages": "^3.2.3",
+    "immutability-helper": "^2.9.0",
+    "npm-git-install": "^0.3.0",
+    "react": "^16.5.2",
+    "react-bootstrap": "^2.4.0",
+    "react-confirm-alert": "^2.8.0",
+    "react-crud-icons": "^1.1.0",
+    "react-dnd": "^7.0.2",
+    "react-dnd-html5-backend": "^7.0.2",
+    "react-dom": "^16.5.2",
+    "react-modal": "^3.15.1",
+    "react-scripts": "^5.0.1",
+    "reactjs-popup": "^2.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:8080",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
